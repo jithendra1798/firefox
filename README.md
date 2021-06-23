@@ -7,7 +7,9 @@
 3. [ ] **Python** ( _IITMOD_  &&  _Python Crash Course_ )
 
 --: ***Deadline : 01, August, 2021***
-
+<html>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<\html>
 ***
 
 ## Stage-2 :  Searching & Contributing for Small OpenSource projects
