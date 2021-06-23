@@ -10,8 +10,8 @@
 <html>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </html>
-***
 
+***
 ## Stage-2 :  Searching & Contributing for Small OpenSource projects
 
 1. [ ] **Search Small opensource projects** ( _Google, Github,...etc._ )
