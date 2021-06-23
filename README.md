@@ -9,7 +9,7 @@
 --: ***Deadline : 01, August, 2021***
 <html>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<\html>
+</html>
 ***
 
 ## Stage-2 :  Searching & Contributing for Small OpenSource projects
