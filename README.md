@@ -1,14 +1,17 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+# Pathway to ML
+***
+## - [ ] Stage-1 :  Learning
+***
+1. [ ] **Machine Learning** ( _Coursera_ )
+2. [ ] **Statistics** ( _IITMOD_ )
+3. [ ] **Python** ( _IITMOD_  &&  _Python Crash Course_ )
+***
+***Deadline : 01, August, 2021***
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
-Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+## [ ] Stage-2 :  Searching & Contributing for Small OpenSource projects
+***
+1. [ ] **Search Small opensource projects** ( _Google, Github,...etc._ )
+2. [ ] **Contribute to 5 projects on ML** ( _Atleast **1** per month_ )
+***
+***Deadline : 31, November, 2021***
