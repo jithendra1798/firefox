@@ -14,3 +14,10 @@
 2. [ ] **Contribute to 5 projects on ML** ( _Atleast **1** per month_ )
 - ***Deadline : 31, November, 2021***
 ***
+
+## Stage-3 :  Searching & Contributing for GSoC projects
+
+1. [ ] **Search previous GSoC projects on ML** ( _Google, Github,...etc._ )
+2. [ ] **Contribute to 2 projects on ML** ( _Atleast **1** per month_ )
+- ***Deadline : 31, March, 2022***
+***
