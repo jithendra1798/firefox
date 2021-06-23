@@ -12,5 +12,5 @@
 
 1. [ ] **Search Small opensource projects** ( _Google, Github,...etc._ )
 2. [ ] **Contribute to 5 projects on ML** ( _Atleast **1** per month_ )
--***Deadline : 31, November, 2021***
+- ***Deadline : 31, November, 2021***
 ***
