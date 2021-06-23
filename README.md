@@ -7,7 +7,7 @@
 3. [ ] **Python** ( _IITMOD_  &&  _Python Crash Course_ )
 ---
 ***Deadline : 01, August, 2021***
-<html><div style="text-align: right"> your-text-here </div></html>
+<html><div style="text-align: justify"> your-text-here </div></html>
 
 ***
 ## Stage-2 :  Searching & Contributing for Small OpenSource projects
